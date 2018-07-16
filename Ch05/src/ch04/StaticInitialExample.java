@@ -6,5 +6,4 @@ public class StaticInitialExample {
 		System.out.println(HundresNumbers.arr2[27]);
 		System.out.println(HundresNumbers.arr2[63]);
 	}
-
 }
