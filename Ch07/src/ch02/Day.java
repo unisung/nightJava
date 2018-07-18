@@ -1,0 +1,5 @@
+package ch02;
+
+public enum Day {
+ MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY,SATRUDAY,SUNDAY
+}
